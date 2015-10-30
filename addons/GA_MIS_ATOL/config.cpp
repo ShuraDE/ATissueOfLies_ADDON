@@ -1,3 +1,5 @@
+#define XEH_ENABLED class EventHandlers { EXTENDED_EVENTHANDLERS }; delete SLX_XEH_DISABLED
+
 class CfgSFX {
 	sounds[] = {};
 	class sfx_mistake_music {
